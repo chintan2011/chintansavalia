@@ -7,7 +7,7 @@ export default class Contact extends Component {
     return (
       <React.Fragment>
         <div id="contactinfo" class="contactinfo">
-		      	<SocialIcon url="https://linkedin.com/in/chintansavalia"/>
+		      	<SocialIcon url="https://www.linkedin.com/in/chintan-savalia/"/>
         		<SocialIcon url="https://github.com/chintan2011" bgColor="#00000"/>
 				<SocialIcon url="https://www.facebook.com/chintan2011"/>
 				<br></br><br></br>
