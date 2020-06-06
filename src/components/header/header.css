@@ -1,0 +1,24 @@
+body {
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+}
+
+.contactInfo{
+    text-align: center;
+}
+
+img {  
+    position: absolute;
+    margin:auto;
+    left:0;
+    right:0;
+}
+
+.myName{
+    text-align: center;
+}
+
+html{
+    scroll-behavior: smooth;
+}
