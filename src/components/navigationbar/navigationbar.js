@@ -33,12 +33,18 @@ export default class Contact extends Component {
 			let locator = document.getElementById("skills");
 			locator.scrollIntoView();
 		}
+
+		function scrollTointernship(e){
+			let locator = document.getElementById("internship");
+			locator.scrollIntoView();
+		}
     return (
         <React.Fragment>
 			<Container fluid>
   				<Row className="justify-content-md-center">
 				  	<Col md="auto">
 					  	<Button onClick={scrollToWorkExperience} size="lg">Work Experience</Button> {' '}
+						<Button onClick={scrollTointernship} size="lg">Internship</Button> {' '}
 						<Button onClick={scrollToProject} size="lg">Projects</Button> {' '}
 						<Button onClick={scrollToSkills} size="lg">Skills</Button> {' '}
 						<Button onClick={scrollToEducation} size="lg">Education</Button> {' '}
