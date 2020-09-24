@@ -35,7 +35,7 @@ export default class Contact extends Component {
             </p>
 
             <p> 
-                <h5>Lead Test Engineer - Automation (December 2017 - FFebruary 2019)</h5>
+                <h5>Lead Test Engineer - Automation (December 2017 - February 2019)</h5>
                 <h6>BlackBerry Messenger (BBM) - Ottawa, Ontario, Canada</h6>
                 <ul>
                     <li>Responsible for ensuring that product meets the in-market Quality Standards.</li>
