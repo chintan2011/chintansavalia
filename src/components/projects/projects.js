@@ -18,6 +18,12 @@ export default class Contact extends Component {
 			<li>Resume website to get familiar with react components</li>
 
 			<br></br>
+			<Alert.Link href="https://github.com/chintan2011/covid-19-tracker">
+				covid-19-tracker - (Firebase, JavaScript, React, REST, HTML and CSS)
+			</Alert.Link>
+			<li>Covid 19 cases, recovered, and deaths tracker using REST API</li>
+
+			<br></br>
 			<Alert.Link href="https://github.com/chintan2011/pusherpoll">
 				PusherPoll - (JavaScript, NodeJS, Express, Mongoose, Pusher, HTML and CSS)
 			</Alert.Link>

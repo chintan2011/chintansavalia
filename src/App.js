@@ -14,14 +14,14 @@ class App extends Component {
     return (
       <div className="App">
         <Header />
-		<Navigation />
+        <Navigation />
         <WorkExperience />
-		<Internship />
+        <Internship />
         <Projects />
-		<Skills />
-		<Education/>
-		<Contact />
-		<ScrollUpButton/>
+        <Skills />
+        <Education />
+        <Contact />
+        <ScrollUpButton />
       </div>
     );
   }
